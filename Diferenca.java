@@ -1,3 +1,5 @@
+package atvpoo;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -8,7 +10,7 @@ import java.time.format.ResolverStyle;
 import java.time.temporal.ChronoUnit;
 
 
-class Main {
+public class Diferenca {
 
 	public static void main(String[] args) throws IOException {
 BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
